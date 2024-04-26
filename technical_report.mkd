@@ -1,0 +1,5 @@
+## Class Diagram
+
+![Class Diagram](image/workshop3_ClassDiagram.png)
+
+The changes made to the class diagram were the interchange on all the public methods and attributes for private, to make the software more safety.
